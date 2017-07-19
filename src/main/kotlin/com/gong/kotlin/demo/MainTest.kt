@@ -26,6 +26,7 @@ fun main(args: Array<String>) {
 
     a = 6
     println("${s1.replace("is", "was")} , but now is $a")
+
 }
 
 //fun sum(a:Int, b:Int) : Int {
