@@ -1,4 +1,4 @@
-package com.gong.kotlin.demo.base
+package com.gong.kotlin.demo.base.types
 
 /**
  * Created by gong on 2017/7/18.
